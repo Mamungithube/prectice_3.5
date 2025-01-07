@@ -109,7 +109,7 @@
 }
 
 .progress.blue .progress-bar {
-    border-color: #c4e33b;
+    border-color: red;
 }
 
 .progress.blue .progress-left .progress-bar {
